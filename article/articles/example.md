@@ -6,6 +6,8 @@
 
 
 
+![Cover](https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91yfwiNh2aL._SL1500_.jpg)
+
 In a Time Lapse est un album du compositeur et pianiste italien Ludovico Einaudi, enregistré et publié en 2013.
 Pour piano, cordes et musique électronique.
 
