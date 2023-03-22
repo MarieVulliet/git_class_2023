@@ -17,9 +17,9 @@ La seconde édition (iTunes), en téléchargement sur la plateforme dédiée, aj
 
 Einaudi renoue avec ses compositions classiques, riches en mélodies. Mêlant tristesse et lenteur, mélancolie et joie, il raconte une histoire aux multiples émotions.
 
-    les titres 1, 2, 4, 7, 8, 10, 11, 13, 16 et 17, sont pour piano, percussions et orchestre de chambre (violoncelle, violon, alto, guitare, kalimba, électro live, loops...)
-    les titres 3, 6, 12 et 14 sont pour piano et orchestre à cordes (Ensemble I Virtuosi Italiani), composé de 2 violoncelles, 6 violons, 4 altos et 2 contrebasses
-    les titres 5, 9, 15, 18 et 19 sont pour piano solo
+- les titres 1, 2, 4, 7, 8, 10, 11, 13, 16 et 17, sont pour piano, percussions et orchestre de chambre (violoncelle, violon, alto, guitare, kalimba, électro live, loops...)
+- les titres 3, 6, 12 et 14 sont pour piano et orchestre à cordes (Ensemble I Virtuosi Italiani), composé de 2 violoncelles, 6 violons, 4 altos et 2 contrebasses
+- les titres 5, 9, 15, 18 et 19 sont pour piano solo
 
 Cet album est selon moi le plus beau.
 
