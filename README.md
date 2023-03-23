@@ -16,3 +16,5 @@ Bonjour, this is a change from local git.
 Bonjour, this is changed from github.
 
 I accepted both lines to solve the conflict.
+
+Now I finally add a last line form github.
