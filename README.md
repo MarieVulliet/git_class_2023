@@ -14,3 +14,5 @@ And this is a line from the local git.
 
 Bonjour, this is a change from local git.
 Bonjour, this is changed from github.
+
+I accepted both lines to solve the conflict.
