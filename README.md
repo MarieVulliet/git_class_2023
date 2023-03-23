@@ -10,3 +10,6 @@ Now, I add another line (from Github).
 
 
 And this is a line from the local git.
+
+
+Bonjour, this is a change from local git.
